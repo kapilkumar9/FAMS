@@ -1,0 +1,15 @@
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\bin\Debug\Database1.mdf
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\bin\Debug\Database1_log.ldf
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\bin\Debug\FAMS.exe.config
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\bin\Debug\FAMS.exe
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\bin\Debug\FAMS.pdb
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\obj\Debug\FAMS.Dashboard.resources
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\obj\Debug\FAMS.diver.resources
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\obj\Debug\FAMS.fishes.resources
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\obj\Debug\FAMS.Form1.resources
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\obj\Debug\FAMS.Properties.Resources.resources
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\obj\Debug\FAMS.staff.resources
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\obj\Debug\FAMS.csproj.GenerateResource.cache
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\obj\Debug\FAMS.exe
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\obj\Debug\FAMS.pdb
+E:\Development Practice\C# Projects\Fish Aquarium Management System\FAMS\FAMS\obj\Debug\FAMS.csprojAssemblyReference.cache
